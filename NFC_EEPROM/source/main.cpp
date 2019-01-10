@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-
+#include "mm.h"
 #include "events/EventQueue.h"
 
 #include "nfc/ndef/MessageBuilder.h"
